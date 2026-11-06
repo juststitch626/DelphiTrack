@@ -41,3 +41,5 @@ DelphiTrack is a sleek, high-precision stock-taking, calculation, and store audi
    ```bash
    git clone [https://github.com/Delphia/DelphiTrack.git](https://github.com/Delphia/DelphiTrack.git)
    cd DelphiTrack
+   <img width="1408" height="768" alt="DelphiTrack" src="https://github.com/user-attachments/assets/fbdf95a9-e3d3-4f09-bae6-477d0aa55d94" />
+
