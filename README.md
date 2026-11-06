@@ -2,13 +2,24 @@
 
 > **Precision inventory. Instant clarity.**
 
-DelphiTrack is a sleek, high-precision stock-taking, calculation, and store auditing application built for **Delphia**. Designed for shop floor managers and audit teams, it eliminates inventory friction with automated stock deductions, receipt tracking, visual product audits, and built-in credit management.
+DelphiTrack is a sleek, high-precision stock-taking, calculation, and store auditing application built for **Delphia**. Designed for shop floor managers and audit teams, it eliminates inventory friction with automated stock deductions, receipt tracking, visual product audits, customer credit tracking, and seamless **offline-first mobile and web synchronization**.
+
+---
+
+## 🛠️ Technology Stack
+
+DelphiTrack is built as a unified cross-platform application (Web & Mobile) with robust offline functionality:
+
+* **Frontend / Mobile:** Flutter (Dart) / React Native (TypeScript) – *Cross-platform Web, iOS, and Android*
+* **Local Offline Database:** SQLite / Hive – *Enables full offline operations on mobile devices*
+* **Backend & Storage:** Supabase / Firebase – *Real-time database sync, cloud authentication, and image storage*
 
 ---
 
 ## 🌟 Key Features
 
 * **🧮 Live Inventory Calculator:** Deducts products directly from available stock levels in real time as sales or counts are calculated.
+* **📲 Cross-Platform & Offline Support:** Operates seamlessly on mobile devices without an active internet connection; automatically syncs data when connected.
 * **🏷️ Dual-Pricing & Supplier Directory:** 
   * Maintains a complete catalog of suppliers.
   * Tracks both supplier cost prices and Delphia retail prices side-by-side.
@@ -32,8 +43,8 @@ DelphiTrack is a sleek, high-precision stock-taking, calculation, and store audi
 
 ### Prerequisites
 
-* Node.js (v18.0 or higher) / Flutter / React Native *(adjust to match your tech stack)*
-* Package manager (`npm`, `yarn`, or `pnpm`)
+* [Flutter SDK](https://docs.flutter.dev/get-started/install) (v3.0+) or Node.js (v18.0+)
+* Mobile device emulator (Android Studio / Xcode) or modern Web Browser
 
 ### Installation
 
@@ -41,5 +52,3 @@ DelphiTrack is a sleek, high-precision stock-taking, calculation, and store audi
    ```bash
    git clone [https://github.com/Delphia/DelphiTrack.git](https://github.com/Delphia/DelphiTrack.git)
    cd DelphiTrack
-   <img width="1408" height="768" alt="DelphiTrack" src="https://github.com/user-attachments/assets/fbdf95a9-e3d3-4f09-bae6-477d0aa55d94" />
-
