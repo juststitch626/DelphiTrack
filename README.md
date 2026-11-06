@@ -2,16 +2,22 @@
 
 > **Precision inventory. Instant clarity.**
 
-DelphiTrack is a sleek, high-precision stock-taking, calculation, and store auditing application built for **Delphia**. Designed for shop floor managers and audit teams, it eliminates inventory friction with fast digital counts, instant margin reconciliations, and clean reporting.
+DelphiTrack is a sleek, high-precision stock-taking, calculation, and store auditing application built for **Delphia**. Designed for shop floor managers and audit teams, it eliminates inventory friction with automated stock deductions, receipt tracking, visual product audits, and built-in credit management.
 
 ---
 
 ## 🌟 Key Features
 
-* **⚡ Rapid Stock Counts:** Intuitive counting workflows optimized for fast floor audits.
-* **🧮 Built-in Store Calculator:** Real-time unit, bulk, and margin calculations without leaving the app.
-* **📋 Audit & Reconcile:** Track inventory discrepancies instantly and log verified stock levels.
-* **📊 Reporting & Export:** Generate precise audit summaries for management review.
+* **🧮 Live Inventory Calculator:** Deducts products directly from available stock levels in real time as sales or counts are calculated.
+* **🏷️ Dual-Pricing & Supplier Directory:** 
+  * Maintains a complete catalog of suppliers.
+  * Tracks both supplier cost prices and Delphia retail prices side-by-side.
+* **🧾 Receipt & Document Archiving:** Capture and store image proofs of receipts for stock paid for and received from suppliers.
+* **📸 Visual Product Audits:** 
+  * Take photos of products sold directly on the shop floor.
+  * Instant access to detailed product profiles including **Supplier Name**, **Supplier Price**, **Delphia Shop Price**, and **Expected Profit Margin**.
+* **📊 Comprehensive Auditing:** Automatically reconciles live counts, wholesale costs, shop prices, and projected profit margins.
+* **📖 Dinau / Customer Credit Tracker:** Dedicated ledger section to log, track, and audit customers buying on store credit (*dinau*).
 
 ---
 
@@ -26,7 +32,7 @@ DelphiTrack is a sleek, high-precision stock-taking, calculation, and store audi
 
 ### Prerequisites
 
-* Node.js (v18.0 or higher) / Flutter / Python *(adjust to match your tech stack)*
+* Node.js (v18.0 or higher) / Flutter / React Native *(adjust to match your tech stack)*
 * Package manager (`npm`, `yarn`, or `pnpm`)
 
 ### Installation
