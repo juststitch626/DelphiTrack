@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="DelphiTrack" src="https://github.com/user-attachments/assets/f408ad1e-e14a-44b4-9d01-e6b84efc24b1" />
 # DelphiTrack
 
 > **Precision inventory. Instant clarity.**
